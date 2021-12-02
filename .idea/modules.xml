@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nieuwe map.iml" filepath="$PROJECT_DIR$/.idea/Nieuwe map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-solution-jpa/api/api.iml" filepath="$PROJECT_DIR$/order-solution-jpa/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-solution-jpa/domain/domain.iml" filepath="$PROJECT_DIR$/order-solution-jpa/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-solution-jpa/infrastructure/infrastructure.iml" filepath="$PROJECT_DIR$/order-solution-jpa/infrastructure/infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-solution-jpa/order.iml" filepath="$PROJECT_DIR$/order-solution-jpa/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-solution-jpa/service/service.iml" filepath="$PROJECT_DIR$/order-solution-jpa/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-solution-jpa/war/war.iml" filepath="$PROJECT_DIR$/order-solution-jpa/war/war.iml" />
+    </modules>
+  </component>
+</project>

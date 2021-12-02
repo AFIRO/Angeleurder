@@ -1,0 +1,124 @@
+2021-12-02 10:12:18 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-02 10:12:18 - Finished Spring Data repository scanning in 24 ms. Found 0 JPA repository interfaces.
+2021-12-02 10:12:19 - Tomcat initialized with port(s): 9000 (http)
+2021-12-02 10:12:19 - Starting service [Tomcat]
+2021-12-02 10:12:19 - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-12-02 10:12:19 - Initializing Spring embedded WebApplicationContext
+2021-12-02 10:12:19 - Root WebApplicationContext: initialization completed in 1319 ms
+2021-12-02 10:12:19 - HikariPool-1 - Starting...
+2021-12-02 10:12:19 - HikariPool-1 - Start completed.
+2021-12-02 10:12:19 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-12-02 10:12:19 - Flyway Community Edition 7.1.1 by Redgate
+2021-12-02 10:12:19 - Database: jdbc:h2:mem:testdb (H2 1.4)
+2021-12-02 10:12:19 - Successfully validated 1 migration (execution time 00:00.029s)
+2021-12-02 10:12:19 - Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2021-12-02 10:12:19 - Current version of schema "PUBLIC": << Empty Schema >>
+2021-12-02 10:12:19 - Migrating schema "PUBLIC" to version "1 - init-database"
+2021-12-02 10:12:19 - Successfully applied 1 migration to schema "PUBLIC" (execution time 00:00.057s)
+2021-12-02 10:12:19 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-02 10:12:19 - HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-12-02 10:12:20 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-02 10:12:20 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-12-02 10:12:20 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-02 10:12:20 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-02 10:12:21 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-02 10:12:21 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-12-02 10:12:21 - Tomcat started on port(s): 9000 (http) with context path ''
+2021-12-02 10:12:32 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-02 10:12:32 - Initializing Servlet 'dispatcherServlet'
+2021-12-02 10:12:32 - Completed initialization in 1 ms
+2021-12-02 10:12:33 - Init duration for springdoc-openapi is: 319 ms
+2021-12-02 10:17:38 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-12-02 10:17:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-02 10:17:38 - HikariPool-1 - Shutdown initiated...
+2021-12-02 10:17:38 - HikariPool-1 - Shutdown completed.
+2021-12-02 10:18:35 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-02 10:18:35 - Finished Spring Data repository scanning in 24 ms. Found 0 JPA repository interfaces.
+2021-12-02 10:18:36 - Tomcat initialized with port(s): 9000 (http)
+2021-12-02 10:18:36 - Starting service [Tomcat]
+2021-12-02 10:18:36 - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-12-02 10:18:36 - Initializing Spring embedded WebApplicationContext
+2021-12-02 10:18:36 - Root WebApplicationContext: initialization completed in 1118 ms
+2021-12-02 10:18:36 - HikariPool-1 - Starting...
+2021-12-02 10:18:36 - HikariPool-1 - Start completed.
+2021-12-02 10:18:36 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-12-02 10:18:36 - Flyway Community Edition 7.1.1 by Redgate
+2021-12-02 10:18:36 - Database: jdbc:h2:mem:testdb (H2 1.4)
+2021-12-02 10:18:36 - Successfully validated 1 migration (execution time 00:00.020s)
+2021-12-02 10:18:36 - Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2021-12-02 10:18:36 - Current version of schema "PUBLIC": << Empty Schema >>
+2021-12-02 10:18:36 - Migrating schema "PUBLIC" to version "1 - init-database"
+2021-12-02 10:18:36 - Successfully applied 1 migration to schema "PUBLIC" (execution time 00:00.038s)
+2021-12-02 10:18:36 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-02 10:18:36 - HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-12-02 10:18:37 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-02 10:18:37 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-12-02 10:18:37 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-02 10:18:37 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-02 10:18:37 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-02 10:18:38 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-12-02 10:18:38 - Tomcat started on port(s): 9000 (http) with context path ''
+2021-12-02 10:21:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-02 10:21:59 - Finished Spring Data repository scanning in 19 ms. Found 0 JPA repository interfaces.
+2021-12-02 10:21:59 - Tomcat initialized with port(s): 9000 (http)
+2021-12-02 10:21:59 - Starting service [Tomcat]
+2021-12-02 10:21:59 - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-12-02 10:21:59 - Initializing Spring embedded WebApplicationContext
+2021-12-02 10:21:59 - Root WebApplicationContext: initialization completed in 1015 ms
+2021-12-02 10:21:59 - HikariPool-1 - Starting...
+2021-12-02 10:22:00 - HikariPool-1 - Start completed.
+2021-12-02 10:22:00 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-12-02 10:22:00 - Flyway Community Edition 7.1.1 by Redgate
+2021-12-02 10:22:00 - Database: jdbc:h2:mem:testdb (H2 1.4)
+2021-12-02 10:22:00 - Successfully validated 1 migration (execution time 00:00.021s)
+2021-12-02 10:22:00 - Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2021-12-02 10:22:00 - Current version of schema "PUBLIC": << Empty Schema >>
+2021-12-02 10:22:00 - Migrating schema "PUBLIC" to version "1 - init-database"
+2021-12-02 10:22:00 - Successfully applied 1 migration to schema "PUBLIC" (execution time 00:00.046s)
+2021-12-02 10:22:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-02 10:22:00 - HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-12-02 10:22:00 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-02 10:22:00 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-12-02 10:22:01 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-02 10:22:01 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-02 10:22:01 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-02 10:22:01 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-12-02 10:22:02 - Tomcat started on port(s): 9000 (http) with context path ''
+2021-12-02 10:22:06 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-02 10:22:06 - Initializing Servlet 'dispatcherServlet'
+2021-12-02 10:22:06 - Completed initialization in 1 ms
+2021-12-02 10:22:06 - Init duration for springdoc-openapi is: 320 ms
+2021-12-02 10:32:33 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-12-02 10:32:33 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-02 10:32:33 - HikariPool-1 - Shutdown initiated...
+2021-12-02 10:32:33 - HikariPool-1 - Shutdown completed.
+2021-12-02 11:00:54 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-02 11:00:54 - Finished Spring Data repository scanning in 21 ms. Found 0 JPA repository interfaces.
+2021-12-02 11:00:55 - Tomcat initialized with port(s): 9000 (http)
+2021-12-02 11:00:55 - Starting service [Tomcat]
+2021-12-02 11:00:55 - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-12-02 11:00:55 - Initializing Spring embedded WebApplicationContext
+2021-12-02 11:00:55 - Root WebApplicationContext: initialization completed in 1127 ms
+2021-12-02 11:00:55 - HikariPool-1 - Starting...
+2021-12-02 11:00:55 - HikariPool-1 - Start completed.
+2021-12-02 11:00:55 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-12-02 11:00:55 - Flyway Community Edition 7.1.1 by Redgate
+2021-12-02 11:00:55 - Database: jdbc:h2:mem:testdb (H2 1.4)
+2021-12-02 11:00:55 - Successfully validated 1 migration (execution time 00:00.023s)
+2021-12-02 11:00:55 - Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2021-12-02 11:00:55 - Current version of schema "PUBLIC": << Empty Schema >>
+2021-12-02 11:00:55 - Migrating schema "PUBLIC" to version "1 - init-database"
+2021-12-02 11:00:55 - Successfully applied 1 migration to schema "PUBLIC" (execution time 00:00.031s)
+2021-12-02 11:00:55 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-02 11:00:55 - HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-12-02 11:00:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-02 11:00:56 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-12-02 11:00:56 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-02 11:00:56 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-02 11:00:56 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-02 11:00:56 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-12-02 11:00:57 - Tomcat started on port(s): 9000 (http) with context path ''
+2021-12-02 11:01:00 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-02 11:01:00 - Initializing Servlet 'dispatcherServlet'
+2021-12-02 11:01:00 - Completed initialization in 0 ms
+2021-12-02 11:01:01 - Init duration for springdoc-openapi is: 331 ms
